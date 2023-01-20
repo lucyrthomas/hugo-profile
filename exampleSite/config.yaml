@@ -192,7 +192,7 @@ params:
         featuredLink:
           enable: true
           url: "https://example.com"
-        content: |
+        content: |-
          
   # Education
   education:
