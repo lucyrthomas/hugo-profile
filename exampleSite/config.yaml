@@ -147,10 +147,13 @@ params:
       
       In my free time, I enjoy reading and watching Gilmore Girls. 
        
-      More about this portfolio:
-      - Target Audience: Graduate School programs
-      - Goal of the Portfolio: Showcase programming in PRAAT, make a Swirl modules for linguisic courses
-  
+  #Description of the Portfolio 
+  Description:
+    enable: true
+    title: "Description of the Portfolio "
+    content: |-
+    - Target Audience: Graduate School programs
+    - Goal of the Portfolio: Showcase programming in PRAAT, make a Swirl modules for linguisic courses
   
   # Experience
   experience:
