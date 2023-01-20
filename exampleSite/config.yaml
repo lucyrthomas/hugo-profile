@@ -150,11 +150,12 @@ params:
   #Description of the Portfolio 
   Description:
     enable: true
-    title: "Description of the Portfolio "
+    title: "Description of Portfolio "
     content: |-
-    - Target Audience: Graduate School programs
-    - Goal of the Portfolio: Showcase programming in PRAAT, make a Swirl modules for linguisic courses
-  
+      Target Audience is graduate school programs
+      The goal of this portfolio is to showcase programming in PRAAT and make Swirl modules for linguistics courses
+      I would also like to compile useful packages for SLPs and Linguists
+      
   # Experience
   experience:
     enable: true
