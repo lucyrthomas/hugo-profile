@@ -145,17 +145,7 @@ params:
       I am interested in persuing a career as Speech Langauge Pathologist or a Communication Disorders Assistant. 
       
       In my free time, I enjoy reading and watching Gilmore Girls. 
-      
-      
-   # About
-  about:
-    enable: true
-    title: "Description of the Portfolio"
-    image: "/images/me.png"
-    content: |-
-    I 
        
-
 
   # Experience
   experience:
