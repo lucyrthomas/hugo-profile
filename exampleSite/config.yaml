@@ -102,7 +102,7 @@ params:
   navbar:
     align: ms-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
     # brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
-    brandName: "Hugo Profile" # Brand name for the brand | default is the title variable
+    brandName: "Lucy Thomas" # Brand name for the brand | default is the title variable
     disableSearch: false
     menus:
       disableAbout: false
@@ -146,6 +146,12 @@ params:
       I am interested in persuing a career as Speech Langauge Pathologist or a Communication Disorders Assistant. 
       
       In my free time, I enjoy reading and watching Gilmore Girls. 
+      
+      Description of Portfolio;
+      
+      Target Audience- graduate school programs
+      The goal of the portfolio- to showcase programming in PRAAT and make Swirl modules for linguistics courses
+    
        
   #Description of the Portfolio 
   Description:
