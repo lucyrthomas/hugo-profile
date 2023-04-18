@@ -25,17 +25,17 @@ markup:
 Menus:
   main:
     - enable:false
-      identifier: blog
-      name: Description of Portfolio
-      title: Description of Portfolio
-      url: /blogs
+      identifier: 
+      name: 
+      title: 
+      url: 
       weight: 1
     - enable:false
-      identifier: gallery
-      name: Description of Portfolio
-      title: Blog posts
-      description: Description of Portfolio
-      url: /gallery
+      identifier: 
+      name: 
+      title: 
+      description: 
+      url: 
       weight: 2
     #Dropdown menu
     # - identifier: dropdown
