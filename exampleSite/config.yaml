@@ -24,17 +24,14 @@ markup:
 
 Menus:
   main:
-    - enable:false
-      identifier: .
+    - identifier:..
       name: .
       title: .
       url: 
       weight: 1
-    - enable:false
-      identifier: .
+    - identifier:..
       name: .
-      title: .
-      description: 
+      title: 
       url: 
       weight: 2
     #Dropdown menu
