@@ -25,15 +25,15 @@ markup:
 Menus:
   main:
     - enable:false
-      identifier: 
-      name: 
-      title: 
+      identifier: .
+      name: .
+      title: .
       url: 
       weight: 1
     - enable:false
-      identifier: 
-      name: 
-      title: 
+      identifier: .
+      name: .
+      title: .
       description: 
       url: 
       weight: 2
@@ -241,6 +241,9 @@ params:
         featured:
           name: Demo
           link: https://lucyrthomas.shinyapps.io/speechcalculationsapp/
+        badges:
+          - "R"
+          - "Shiny Apps"  
        
       - title: Swirl Course
         content: This Swirl Course teaches you about Mean Length of Utterance (MLU)
