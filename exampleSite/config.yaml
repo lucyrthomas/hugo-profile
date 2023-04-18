@@ -25,13 +25,14 @@ markup:
 Menus:
   main:
     - identifier: blog
-      name: Blog
-      title: Blog posts
+      name: Description of Portfolio
+      title: Description of Portfolio
       url: /blogs
       weight: 1
-    - identifier: gallery
-      name: Gallery
+    - identifier: Description of Portfolio
+      name: Description of Portfolio
       title: Blog posts
+      description: Description of Portfolio
       url: /gallery
       weight: 2
     #Dropdown menu
@@ -122,7 +123,7 @@ params:
     content: "Aspiring Speech Language Pathologist looking for employment in her gap year"
     image: /images/hero.svg
     button:
-      enable: true
+      enable: false
       name: "Resume"
       url: "#"
       download: true
