@@ -167,7 +167,7 @@ params:
       
   # Experience
   experience:
-    enable: true
+    enable: false
     # title: "Custom Name"
     items:
       - job: "Research Assisitant"
@@ -219,7 +219,7 @@ params:
 
   # Achievements
   achievements:
-    enable: true
+    enable: false
     # title: "Custom Name"
     items:
       - title: Google kickstart runner
@@ -246,8 +246,8 @@ params:
           name: Demo
           link: https://django-converter.herokuapp.com
         badges:
-          - "Django"
-          - "Bootstrap"
+          - "R"
+          - "Swirl"
         links:
           - icon: fab fa-github
             url: https://github.com/gurusabarish/converter
