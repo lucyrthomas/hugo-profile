@@ -24,12 +24,14 @@ markup:
 
 Menus:
   main:
-    - identifier: blog
+    - enable:false
+      identifier: blog
       name: Description of Portfolio
       title: Description of Portfolio
       url: /blogs
       weight: 1
-    - identifier: gallery
+    - enable:false
+      identifier: gallery
       name: Description of Portfolio
       title: Blog posts
       description: Description of Portfolio
