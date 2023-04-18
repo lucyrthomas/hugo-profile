@@ -237,10 +237,10 @@ params:
         image: /images/projects/profile.png
         featured:
           name: Demo
-          link: http://127.0.0.1:4541/
+          link: https://lucyrthomas.shinyapps.io/speechcalculationsapp/
        
-      - title: Image Converter
-        content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
+      - title: Swirl Course
+        content: This Swirl Course teaches you about Mean Length of Utterance (MLU)
         image: /images/projects/converter.jpg
         featured:
           name: Demo
