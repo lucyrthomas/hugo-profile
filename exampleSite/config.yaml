@@ -284,11 +284,11 @@ params:
 
   footer:
     recentPosts:
-      path: "blogs"
-      count: 3
+      path: "..."
+      count: 0
       title: Recent Posts
       enable: false
-      disableFeaturedImage: false
+      disableFeaturedImage: true
     socialNetworks:
       github: https://github.com/lucyrthomas
       linkedin: https://www.linkedin.com/in/lucy-thomas4/
@@ -298,4 +298,4 @@ params:
 
   # List pages like blogs and posts
   listPages:
-    disableFeaturedImage: false
+    disableFeaturedImage: true
