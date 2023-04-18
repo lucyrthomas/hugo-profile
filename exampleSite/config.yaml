@@ -29,7 +29,7 @@ Menus:
       title: Description of Portfolio
       url: /blogs
       weight: 1
-    - identifier: Description of Portfolio
+    - identifier: gallery
       name: Description of Portfolio
       title: Blog posts
       description: Description of Portfolio
@@ -206,7 +206,7 @@ params:
          
   # Education
   education:
-    enable: true
+    enable: false
     # title: "Custom Name"
     index: false
     items:
@@ -285,7 +285,7 @@ params:
       path: "blogs"
       count: 3
       title: Recent Posts
-      enable: true
+      enable: false
       disableFeaturedImage: false
     socialNetworks:
       github: https://github.com/lucyrthomas
