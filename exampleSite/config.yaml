@@ -23,17 +23,7 @@ markup:
       unsafe: true
 
 Menus:
-  main:
-    - identifier:..
-      name: .
-      title: .
-      url: 
-      weight: 1
-    - identifier:..
-      name: .
-      title: 
-      url: 
-      weight: 2
+  
     #Dropdown menu
     # - identifier: dropdown
     #   title: Example dropdown menu
