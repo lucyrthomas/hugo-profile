@@ -211,8 +211,11 @@ params:
     # title: "Custom Name"
     items:
       - title: Google kickstart runner
-        content: I solved all problems with optimal solution.
-        url: http://127.0.0.1:4541/
+        content: 
+        ``` R
+        
+        
+        url: 
 
 
   # projects
@@ -222,6 +225,13 @@ params:
     items:
       - title: Speech Calculations App
         content: An app which calculates speech rate, number of syllables, and Mean Length Utterance
+        params:
+  myCode: `
+    // This is my embedded code
+    function myFunction() {
+      console.log("Hello, world!");
+    }
+  `
         image: /images/projects/MLU.jpeg
         featured:
           name: Demo
@@ -241,54 +251,6 @@ params:
           - "Swirl"
         links:
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/converter
-            
-            ```R
-            
-  Class: meta
-  Course: My_Course
-  Lesson: MLU_Calculations
-  Author: Lucy Thomas
-  Type: Standard
-  Organization: McMaster University
-  Version: 2.4.5
-
-- Class: text
-  Output: Welcome to this lesson on Mean Length of Utterance (MLU)!
-
-- Class: text
-  Output: Today we are going to learn what Mean Length of Utterance is and how to calculate it.
-
-- Class: text
-  Output: Mean Length of Utterance is a measure of how many words a child produces. It is a calculation of the average length of the sentences that a child typically uses.
-
-- Class: text
-  Output: It is calculated by collecting 100 utterances spoken by a child and dividing the number of morphemes by the number of utterances
-  
-- Class: text
-  Output: But first, what is a morpheme?
-
-- Class: text
-  Output: A morpheme is the smallest unit of meaning in a word. For example, runs has two morphemes, run and -s.
-
-- Class: exact_question
-  Output: How many morphemes are in the word running?
-  CorrectAnswer: 2
-  AnswerTests: omnitest(correctVal=2)
-  Hint: run and -ing
-  
-- Class: cmd_question
-  Output: If in 100 utterances a child uses 300 morphemes, write the expression to calculate the MLU
-  CorrectAnswer: 300/100
-  AnswerTests: omnitest(correctExpr='300/100')
-  Hint: MLU is calculated by collecting 100 utterances spoken by a child and dividing the number of morphemes by the number of utterances
-
-- Class: script
-  Output: Now we will write a code to calculate MLU for us
-  AnswerTests: my_MLUTest.R
-  Hint: hint
-  Script: my_MLU_script.R
-```
 
       - title: Vowel Cluster Finder (regex)
         content: This program counts and prints the vowel clusters in a word
