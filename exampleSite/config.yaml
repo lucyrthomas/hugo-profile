@@ -225,12 +225,11 @@ params:
     items:
       - title: Speech Calculations App
         content: An app which calculates speech rate, number of syllables, and Mean Length Utterance
-        params:
-  myCode: `
-    // This is my embedded code
+        `htmltools::HTML('
     function myFunction() {
       console.log("Hello, world!");
     }
+  ')`
   `
         image: /images/projects/MLU.jpeg
         featured:
