@@ -234,7 +234,7 @@ params:
        
       - title: Swirl Course
         content: This Swirl Course teaches you about Mean Length of Utterance (MLU)
-        image: /images/projects/converter.jpg
+        image: /images/projects/swirl.jpg
         featured:
           name: Demo
           link: https://django-converter.herokuapp.com
