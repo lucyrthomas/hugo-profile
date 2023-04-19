@@ -243,8 +243,9 @@ params:
           - icon: fab fa-github
             url: https://github.com/gurusabarish/converter
             
-            ```
-            - Class: meta
+            ```R
+            
+  Class: meta
   Course: My_Course
   Lesson: MLU_Calculations
   Author: Lucy Thomas
