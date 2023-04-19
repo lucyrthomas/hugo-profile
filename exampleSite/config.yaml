@@ -245,16 +245,15 @@ params:
           - icon: fab fa-github
             url: https://github.com/gurusabarish/converter
 
-      - title: Hugo Profile V2
-        content: A clean and simple Hugo template for personal portfolio and blog.
-        image: /images/projects/profile2.jpg
+      - title: Vowel Cluster Finder (regex)
+        content: This program counts and prints the vowel clusters in a word
+        image: /images/projects/vowel.png
         featured:
           name: Demo V2
           link: https://hugo-profile-2.netlify.app
         badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
+          - "R"
+          - "Regex"
         links:
           - icon: fab fa-github
             url: https://github.com/gurusabarish/HugoProfileV2
