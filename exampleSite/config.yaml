@@ -110,7 +110,7 @@ params:
     title: "Lucy"
     subtitle: "I'm a 4th year student at McMaster University"
     content: "Aspiring Speech Language Pathologist looking for employment in her gap year"
-    image: /images/projects/slp.jpg
+    image: /images/projects/slp2.webp
     button:
       enable: false
       name: "Resume"
