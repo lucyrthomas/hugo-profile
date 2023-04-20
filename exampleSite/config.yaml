@@ -220,13 +220,11 @@ params:
     # title: "Custom Name"
     items:
       - title: Speech Calculations App
-        content: An app which calculates speech rate, number of syllables, and Mean Length Utterance
+        content: An app which calculates speech rate, number of syllables, and Mean Length Utterance. Click the github icon to get the code.
         image: /images/projects/MLU.jpeg
         featured:
-          name: Demo
+          name: Test the app here!
           link: https://lucyrthomas.shinyapps.io/speechcalculationsapp/
-          name: Get the code here!
-          link: https://github.com/lucyrthomas/Final-Project/blob/main/Speech%20Calculations%20App/Shiny%20App%20Code
         badges:
           - "R"
           - "Shiny Apps"  
@@ -288,4 +286,4 @@ params:
 
   # List pages like blogs and posts
   listPages:
-    disableFeaturedImage: true
+    disableFeaturedImage: false
