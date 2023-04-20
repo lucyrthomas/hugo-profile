@@ -129,7 +129,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/me.png"
+    image: "/images/projects/me.png"
     content: |-
       I am a fourth year undergraduage student in the Cognitive Science of Language program at McMaster University. In the future I would like to persue a career as Speech Langauge Pathologist or a Communication Disorders Assistant. In my free time I enjoy reading and watching Gilmore Girls. 
       
