@@ -227,7 +227,7 @@ params:
           - "MLU Calculator"
         links:
           - icon: fab fa-github
-            url: https://github.com/lucyrthomas/Final-Project/blob/main/Speech%20Calculations%20App/Shiny%20App%20Code
+            url: https://github.com/lucyrthomas/Final-Project/blob/main/Speech%20Calculations%20App/app.R
        
       - title: Swirl Course
         content: This Swirl Course teaches you what Mean Length of Utterance(MLU) is, how to calculate it manually, and how Speech Language Pathologists increase it in children. This program is designed to complement my MLU calculator in the Speech Calculations app by giving users background information on MLU.
@@ -246,14 +246,14 @@ params:
         image: /images/projects/vowel.png
         featured:
           name: Get the code here!
-          link: https://github.com/lucyrthomas/Final-Project/blob/main/Regex%20Code/Vowel%20Cluster%20Identifier%20Program
+          link: https://github.com/lucyrthomas/Final-Project/blob/main/Vowel%20Cluster%20Identifier/vowel%20clusters.R
         badges:
           - "R"
           - "Regex"
           - "Vowel Clusters"
         links:
           - icon: fab fa-github
-            url: https://github.com/lucyrthomas/Final-Project/blob/main/Regex%20Code/Vowel%20Cluster%20Identifier%20Program
+            url: https://github.com/lucyrthomas/Final-Project/blob/main/Vowel%20Cluster%20Identifier/vowel%20clusters.R
 
   #Contact
   contact:
