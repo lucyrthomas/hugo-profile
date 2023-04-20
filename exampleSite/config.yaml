@@ -135,7 +135,7 @@ params:
       
       The target audience of this portfolio is graduate school programs and future employers, along with teachers and practitioners of linguistics and Speech Language Pathology.
       
-      In this portfolio I have created resources for Speech Language Pathologists and Linguists, and an educational swirl module for linguistics classes. In this portfolio you will find a Shiny app that can perform various speech related calculations like mean length of utterance, number of syllabes and speech rate. I have also created a regex application that counts vowel clusters in words. The Swirl course teaches the user about what Mean Lenth of Utterance is, and how to calculate it
+      In this portfolio I have created resources for Speech Language Pathologists and Linguists, and an educational swirl module for linguistics classes. In this portfolio you will find a Shiny app that can perform various speech related calculations like mean length of utterance, number of syllabes and speech rate. I have also created a regex program that counts and prints vowel clusters in words. The Swirl course teaches the user what Mean Length of Utterance(MLU) is, how to calculate it, and how Speech Language Pathologists increase MLU in children.
     
        
   #Description of the Portfolio 
