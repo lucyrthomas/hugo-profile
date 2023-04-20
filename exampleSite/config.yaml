@@ -225,16 +225,12 @@ params:
     items:
       - title: Speech Calculations App
         content: An app which calculates speech rate, number of syllables, and Mean Length Utterance
-        `htmltools::HTML('
-    function myFunction() {
-      console.log("Hello, world!");
-    }
-  ')`
-  `
         image: /images/projects/MLU.jpeg
         featured:
           name: Demo
           link: https://lucyrthomas.shinyapps.io/speechcalculationsapp/
+          name: Get the code here!
+          link: https://github.com/lucyrthomas/Final-Project/blob/main/Speech%20Calculations%20App/Shiny%20App%20Code
         badges:
           - "R"
           - "Shiny Apps"  
@@ -243,7 +239,7 @@ params:
         content: This Swirl Course teaches you about Mean Length of Utterance (MLU)
         image: /images/projects/swirl.jpg
         featured:
-          name: Demo
+          name: Get the code here!
           link: https://django-converter.herokuapp.com
         badges:
           - "R"
@@ -255,14 +251,14 @@ params:
         content: This program counts and prints the vowel clusters in a word
         image: /images/projects/vowel.png
         featured:
-          name: Demo V2
-          link: https://hugo-profile-2.netlify.app
+          name: Get the code here!
+          link: https://github.com/lucyrthomas/Final-Project/tree/main/Swirl
         badges:
           - "R"
           - "Regex"
         links:
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/HugoProfileV2
+            url: https://github.com/lucyrthomas/Final-Project/blob/main/Regex%20Code/Vowel%20Cluster%20Identifier%20Program
 
   #Contact
   contact:
