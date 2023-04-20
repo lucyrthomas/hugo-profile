@@ -214,20 +214,23 @@ params:
     # title: "Custom Name"
     items:
       - title: Speech Calculations App
-        content: An app which calculates speech rate, number of syllables, and Mean Length Utterance. Click the github icon to get the code.
+        content: An app which calculates speech rate, the number of syllables in a words, and Mean Length Utterance (MLU). Click the github icon below to get the code!
         image: /images/projects/MLU.jpeg
         featured:
           name: Test the app here!
           link: https://lucyrthomas.shinyapps.io/speechcalculationsapp/
         badges:
           - "R"
-          - "Shiny Apps"  
+          - "Shiny Apps" 
+          - "Speech Rate Calculator"
+          - "Syllable Counter"
+          - "MLU Calculator"
         links:
           - icon: fab fa-github
             url: https://github.com/lucyrthomas/Final-Project/blob/main/Speech%20Calculations%20App/Shiny%20App%20Code
        
       - title: Swirl Course
-        content: This Swirl Course teaches you about Mean Length of Utterance (MLU)
+        content: This Swirl Course teaches you what Mean Length of Utterance(MLU) is, how to calculate it manually, and how Speech Language Pathologists increase it in children. This program is designed to complement my MLU calculator in the Speech Calculations app by giving users background information on MLU.
         image: /images/projects/swirl.jpg
         featured:
           name: Get the code here!
@@ -239,7 +242,7 @@ params:
           - icon: fab fa-github
 
       - title: Vowel Cluster Finder (regex)
-        content: This program counts and prints the vowel clusters in a word
+        content: This program counts and prints the vowel clusters in a word.
         image: /images/projects/vowel.png
         featured:
           name: Get the code here!
@@ -247,6 +250,7 @@ params:
         badges:
           - "R"
           - "Regex"
+          - "Vowel Clusters"
         links:
           - icon: fab fa-github
             url: https://github.com/lucyrthomas/Final-Project/blob/main/Regex%20Code/Vowel%20Cluster%20Identifier%20Program
