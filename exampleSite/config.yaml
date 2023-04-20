@@ -120,7 +120,7 @@ params:
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
-          url: https://example.com
+          url: https://github.com/lucyrthomas
       customIcons:
         - icon: /fav.png
           url: "https://example.com"
@@ -274,9 +274,7 @@ params:
     socialNetworks:
       github: https://github.com/lucyrthomas
       linkedin: https://www.linkedin.com/in/lucy-thomas4/
-      twitter: https://twitter.com
-      instagram: https://instagram.com
-      facebook: https://facebook.com
+
 
   # List pages like blogs and posts
   listPages:
