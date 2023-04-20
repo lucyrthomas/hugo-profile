@@ -131,17 +131,11 @@ params:
     title: "About Me"
     image: "/images/me.png"
     content: |-
-      I am interested in persuing a career as Speech Langauge Pathologist or a Communication Disorders Assistant. 
+      I am a fourth year undergraduage student in the Cognitive Science of Language program at McMaster University. In the future I would like to persue a career as Speech Langauge Pathologist or a Communication Disorders Assistant. In my free time I enjoy reading and watching Gilmore Girls. 
       
-      In my free time I enjoy reading, and watching Gilmore Girls. 
+      The target audience of this portfolio is graduate school programs and future employers, along with teachers and practitioners of linguistics and Speech Language Pathology.
       
-      Description of Portfolio:
-      
-      Target Audience- graduate school programs and future employers
-      
-      The goal of the portfolio- To provide resources for Speech Language Pathologists and Linguists, and to make educational materials for linguistics classes.
-      
-      Programs I want to include - Shiny Apps and Swirl modules for linguistics courses
+      In this portfolio I have created resources for Speech Language Pathologists and Linguists, and an educational swirl module for linguistics classes. In this portfolio you will find a Shiny app that can perform various speech related calculations like mean length of utterance, number of syllabes and speech rate. I have also created a regex application that counts vowel clusters in words. The Swirl course teaches the user about what Mean Lenth of Utterance is, and how to calculate it
     
        
   #Description of the Portfolio 
