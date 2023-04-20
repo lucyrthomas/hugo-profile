@@ -234,7 +234,7 @@ params:
         image: /images/projects/swirl.jpg
         featured:
           name: Get the code here!
-          link: https://github.com/lucyrthomas/Final-Project/edit/main/Swirl/Mean%20Length%20Utterance%20Calculator
+          link: https://github.com/lucyrthomas/Final-Project/blob/main/Swirl%20Course/lesson.yaml
         badges:
           - "R"
           - "Swirl"
