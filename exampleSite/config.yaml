@@ -220,16 +220,18 @@ params:
     # title: "Custom Name"
     items:
       - title: Speech Calculations App
-        content: An app which calculates speech rate, number of syllables, and Mean Length Utterance
+        content: An app which calculates speech rate, number of syllables, and Mean Length Utterance. 
+        Click the Github icon to see the code!
         image: /images/projects/MLU.jpeg
         featured:
           name: Demo
           link: https://lucyrthomas.shinyapps.io/speechcalculationsapp/
-          name: Get the code here!
-          link: https://github.com/lucyrthomas/Final-Project/blob/main/Speech%20Calculations%20App/Shiny%20App%20Code
         badges:
           - "R"
           - "Shiny Apps"  
+        links:
+          - icon: fab fa-github
+            url: https://github.com/lucyrthomas/Final-Project/blob/main/Speech%20Calculations%20App/Shiny%20App%20Code
        
       - title: Swirl Course
         content: This Swirl Course teaches you about Mean Length of Utterance (MLU)
