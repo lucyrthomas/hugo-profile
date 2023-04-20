@@ -212,11 +212,7 @@ params:
     items:
       - title: Google kickstart runner
         content: 
-        ``` R
-        
-        
         url: 
-
 
   # projects
   projects:
