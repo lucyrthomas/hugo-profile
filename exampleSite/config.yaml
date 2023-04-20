@@ -230,14 +230,14 @@ params:
           - "Shiny Apps"  
         links:
           - icon: fab fa-github
-            url: https://github.com/lucyrthomas/Final-Project/blob/main/Regex%20Code/Vowel%20Cluster%20Identifier%20Program
+            url: https://github.com/lucyrthomas/Final-Project/blob/main/Speech%20Calculations%20App/Shiny%20App%20Code
        
       - title: Swirl Course
         content: This Swirl Course teaches you about Mean Length of Utterance (MLU)
         image: /images/projects/swirl.jpg
         featured:
           name: Get the code here!
-          link: https://django-converter.herokuapp.com
+          link: https://github.com/lucyrthomas/Final-Project/edit/main/Swirl/Mean%20Length%20Utterance%20Calculator
         badges:
           - "R"
           - "Swirl"
@@ -249,7 +249,7 @@ params:
         image: /images/projects/vowel.png
         featured:
           name: Get the code here!
-          link: https://github.com/lucyrthomas/Final-Project/tree/main/Swirl
+          link: https://github.com/lucyrthomas/Final-Project/blob/main/Regex%20Code/Vowel%20Cluster%20Identifier%20Program
         badges:
           - "R"
           - "Regex"
